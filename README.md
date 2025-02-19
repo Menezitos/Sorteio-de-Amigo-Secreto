@@ -4,7 +4,7 @@
 Conforme a figura 1, abaixo: 
 
 ![Captura de Tela (25)](https://github.com/user-attachments/assets/f78c8038-0d53-4abd-ae05-ba57661a7887)
-Figura 1
+(Figura 1)
 
 
 
