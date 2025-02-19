@@ -3,7 +3,8 @@
 
 Conforme a figura 1, abaixo: 
 
-https://raw.githubusercontent.com/Menezitos/Challenge-do-Amigo-Secreto/refs/heads/main-Challenge-do-Amigo-Secreto/assets/amigo-secreto.png
+![Captura de Tela (25)](https://github.com/user-attachments/assets/f78c8038-0d53-4abd-ae05-ba57661a7887)
+
 
 
 Temos disponíveis 2 botões, o botão Adicionar e o botão Sortear Amigo. Através desses botões, você irá interagir com a interface de sorteio. No campo adicionar amigo, se atentar em adicionar um amigo por vez, lembrando de não repetir o amigo caso repita, o jogo te avisará que o amigo foi adicionado através da mensagem "Nome já adicionado ou inválido.", caso deixe o campo em branco e clique em adicionar, será exibida uma mensagem de "Nome já adicionado ou inválido."
