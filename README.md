@@ -1,5 +1,5 @@
-🎲#_Jogo do Amigo Secreto 🎲
-#### _Trata-se de um jogo de sorteio simples de um Amigo Secreto, desenvolvido em Javascript, HTML e CSS_.
+# ✨Jogo do Amigo Secreto✨ 
+#### _Trata-se de um jogo de 🎲sorteio🎲 simples de um Amigo Secreto, desenvolvido em Javascript, HTML e CSS_.
 
 Conforme a figura 1, abaixo: 
 
