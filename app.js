@@ -5,9 +5,9 @@ function adicionarAmigo() {
     let input = document.getElementById("amigo");
     let nome = input.value.trim();
     
-    if (nome && !listaDeAmigos.includes(nome)) {
+    if (nome && !listaDeAmigos.some(listaDeAmigos => listaDeAmigos.toLowerCase() === nome.toLowerCase())) {
         listaDeAmigos.push(nome);
-        console.log(`${nome} adicionado à lista!`);
+        //console.log(`${nome} adicionado à lista!`);
         input.value = ""; // Limpa o campo de texto após adicionar
     } else {
         alert("Nome já adicionado ou inválido.");
@@ -34,5 +34,5 @@ function sortearAmigo() {
 
     let resultadoSorteio = document.getElementById("resultado");
     resultadoSorteio.innerHTML += `<p>${sorteado} foi sorteado!</p>`;
-    console.log("Amigo sorteado:", sorteado);
+    //console.log("Amigo sorteado:", sorteado);
 }
